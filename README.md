@@ -38,4 +38,4 @@ Each item in the JSON file represents an entry with a fish emoji in its lemma. T
 1. Ensure you have Python installed on your system.
 2. Run the script using python main.py in your terminal or command prompt.
 3. The script will fetch the data from the API, process it, and store the results in a fish_urls.json file.
-4. Check the fish_urls.json file for the scraped data
+4. Check the fish_urls.json file for the scraped data.
