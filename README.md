@@ -1,4 +1,4 @@
-#LOD-Fishes
+# LOD-Fishes
 ## Fish Emoji Scraper
 
 This project scrapes the Luxembourgish Online Dictionary (lod.lu) for words containing fish emojis (🐠, 🐟, and 🐡) in their lemmas using their API. The resulting data is stored in a JSON file called `fish_urls.json`.
