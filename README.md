@@ -3,6 +3,8 @@
 
 This project scrapes the Luxembourgish Online Dictionary (lod.lu) for words containing fish emojis (🐠, 🐟, and 🐡) in their lemmas using their API. The resulting data is stored in a JSON file called `fish_urls.json`.
 
+‼️ This was part of their 2023 April fools joke and the fishes have been removed ‼️
+
 ## How it works
 
 The script sends requests to the lod.lu API to fetch all the entries in the dictionary, page by page. It then searches for lemmas containing any of the specified fish emojis (🐠, 🐟, or 🐡). When a lemma with a fish emoji is found, the script logs the URL, lemma, and an ID for the entry.
